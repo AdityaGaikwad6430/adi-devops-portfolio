@@ -13,7 +13,8 @@ Welcome to my DevOps portfolio! This repository showcases my hands-on experience
 ### 1. **CI/CD Pipeline with Jenkins**
 - **Description**: Automated build and deployment pipeline for a sample application.
 - **Technologies**: Jenkins, Git, Shell scripting.
-- **Setup**: [Link to setup instructions or scripts]
+-  **Shared Libraries**: https://github.com/AdityaGaikwad6430/shared-libraries.git
+-  **Jenkinsfile**  : https://github.com/AdityaGaikwad6430/django-notes/blob/main/Jenkinsfile    
 
 ### 2. **Dockerized Web Application**
 - **Description**: A simple web application containerized using Docker.
