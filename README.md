@@ -29,7 +29,7 @@ Welcome to my DevOps portfolio! This repository showcases my hands-on experience
 ### 4. **Infrastructure Provisioning with Terraform**
 - **Description**: Automated provisioning of AWS resources using Terraform.
 - **Technologies**: Terraform, AWS.
-- **Setup**: [Link to Terraform scripts]
+- **Setup**: https://github.com/AdityaGaikwad6430/Terraform.git
 
 ### 5. **Monitoring with Grafana**
 - **Description**: Setting up monitoring dashboards for application metrics.
