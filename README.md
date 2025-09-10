@@ -47,5 +47,5 @@ Welcome to my DevOps portfolio! This repository showcases my hands-on experience
 
 ## 📬 Contact
 
-Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/aditya-gaikwad-a68492322) or [Email](adityagaikwad6430@gmail.com).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/aditya-gaikwad-a68492322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [Email](adityagaikwad6430@gmail.com).
 
