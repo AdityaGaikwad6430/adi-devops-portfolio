@@ -14,17 +14,17 @@ Welcome to my DevOps portfolio! This repository showcases my hands-on experience
 - **Description**: Automated build and deployment pipeline for a sample application.
 - **Technologies**: Jenkins, Git, Shell scripting.
 -  **Shared Libraries**: https://github.com/AdityaGaikwad6430/shared-libraries.git
--  **Jenkinsfile**  : https://github.com/AdityaGaikwad6430/django-notes/blob/main/Jenkinsfile    
+-  **Jenkinsfile**  : https://github.com/AdityaGaikwad6430/Photo-web/blob/main/Jenkinsfile
 
 ### 2. **Dockerized Web Application**
 - **Description**: A simple web application containerized using Docker.
-- **Technologies**: Docker, Node.js.
-- **Setup**: [Link to Dockerfile and docker-compose.yml]
+- **Technologies**: Docker, Docker-compose
+- **Setup**: https://github.com/AdityaGaikwad6430/Photo-web/blob/main/docker-compose.yaml 
 
 ### 3. **Kubernetes Cluster Deployment**
 - **Description**: Deployment of a multi-tier application on a Kubernetes cluster.
 - **Technologies**: Kubernetes, Helm.
-- **Setup**: [Link to Helm charts and Kubernetes manifests]
+- **Setup**: 
 
 ### 4. **Infrastructure Provisioning with Terraform**
 - **Description**: Automated provisioning of AWS resources using Terraform.
@@ -34,10 +34,10 @@ Welcome to my DevOps portfolio! This repository showcases my hands-on experience
 ### 5. **Monitoring with Grafana**
 - **Description**: Setting up monitoring dashboards for application metrics.
 - **Technologies**: Grafana, Prometheus.
-- **Setup**: [Link to Grafana dashboards and Prometheus configurations]
+- **Setup**: 
 
 ## 📚 Learning & Training
-- All projects and skills demonstrated in this portfolio were developed through **Train With Shubham Londhe (TWS)** - LondheShubham153.
+- All projects and skills demonstrated in this portfolio were developed through **Train With Shubham (TWS) AKA Londhe Shubham ** - LondheShubham153.
 - For reference and further study, official documentation was also used:
   - [Kubernetes Documentation](https://kubernetes.io/docs/)
   - [Docker Documentation](https://docs.docker.com/)
@@ -47,5 +47,5 @@ Welcome to my DevOps portfolio! This repository showcases my hands-on experience
 
 ## 📬 Contact
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/aditya-gaikwad-a68492322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [Email](adityagaikwad6430@gmail.com).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/aditya-gaikwad-a68492322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [Email](adityagaikwad8566@gmail.com).
 
